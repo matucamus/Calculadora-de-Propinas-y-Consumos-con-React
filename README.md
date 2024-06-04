@@ -1,4 +1,4 @@
-# Calculadora-de-Propinas-y-Consumos-con-React
+# Calculadora-de-Propinas-y-Consumos-con-React / TypeScript
 hecho en React ,vit   Y usando framework TailwindCSS : creando custom Hook 
 
 # Capturas
